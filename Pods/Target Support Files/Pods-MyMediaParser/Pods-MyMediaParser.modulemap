@@ -1,0 +1,6 @@
+framework module Pods_MyMediaParser {
+  umbrella header "Pods-MyMediaParser-umbrella.h"
+
+  export *
+  module * { export * }
+}
